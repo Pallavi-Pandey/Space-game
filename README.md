@@ -1,4 +1,4 @@
-# Space Shooter Game
+# Pygame Space Shooter
 
 An interactive, 2D space shooter game built using Python and the Pygame library.
 
